@@ -1,11 +1,11 @@
 KafMultiWordTagger
 version 1.0
 Copyright: VU University Amsterdam
-email: p.vossen@let.vu.nl
+email: piek.vossen@vu.nl
 
 
 DESCRIPION:
-KafMultiWordTagger reads KAF files and detects multiword sequences in the Term layer of KAF using wordnet lexicons. A configuration file is needed
+KafMultiWordTagger reads KAF files and detects multiword sequences in the Term layer of KAF/NAF using wordnet lexicons. A configuration file is needed
 for each language to determine the head of the multiword. The head is used to adapt the chunk and dependency layers.
 
 SOURCE CODE:
